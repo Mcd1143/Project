@@ -1,0 +1,106 @@
+/* Body Styling */
+body {
+  font-family: "Lucida Console", "Courier New", monospace
+  line-height: 1.6;
+  color: #333;
+  background-color: #e8f5f8; /* Light blue background */
+  margin: 0;
+}
+
+
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+nav ul li a:hover {
+  color: #80cbc4; /* Light teal */
+}
+
+#woman-smiling {
+    
+    float: right;
+    margin: 10px;
+   height: 200px;
+    width=200px;
+}
+
+#man-smiling {
+    
+    float: left;
+    margin: 10px;
+   height: 200px;
+    width=200px;
+}
+
+#blonde-woman-smiling {
+    
+    float: right;
+    margin: 10px;
+   height: 200px;
+    width=200px;
+}
+
+#happy-dog {
+    
+    float: left;
+    margin: 10px;
+   height: 200px;
+    width=200px;
+}
+
+#blue-car {
+    
+    float: right;
+    margin: 10px;
+   height: 200px;
+    width=200px;
+}
+
+#suv {
+    
+    float: right;
+    margin: 10px;
+   height: 200px;
+    width=200px;
+}
+
+#car-on-beach {
+    
+    float: left;
+    margin: 10px;
+   height: 200px;
+    width=200px;
+}
+
+
+.bordered-text {
+    border: 2px solid #00796b; /* Solid teal border */
+    padding: 10px;            /* Space between text and border */
+    font-size: 1.2em;         /* Adjust font size */
+    text-align: center;       /* Center the text */
+    width: fit-content;       /* Border wraps tightly around text */
+    margin: 20px auto;        /* Center the text block horizontally */
+    border-radius: 8px;       /* Optional: Rounded corners */
+    background-color: #f0f8f8; /* Optional: Light background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
+}
+
+#logo {
+    
+    float: center;
+    margin: 10px;
+   height: 50px;
+    width=50px;
+
